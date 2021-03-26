@@ -1,2 +1,2 @@
 # REST-project
-pogetto django REST framework
+pogetto django REST framework PRO
