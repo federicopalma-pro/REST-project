@@ -1,4 +1,3 @@
-#from app.recipe.views import RecipeViewSet
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 
