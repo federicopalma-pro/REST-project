@@ -180,9 +180,9 @@ class PrivateRecipeApiTests(TestCase):
         recipe.tags.add(sample_tag(user=self.user))
 
         payload = {
-            'title': 'Spaghetti carbonara',
-            'time_minutes': 25,
-            'price': 5.00
+                'title': 'Spaghetti carbonara',
+                'time_minutes': 25,
+                'price': 5.00
         }
         url = detail_url(recipe.id)
         self.client.put(url, payload)
