@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Users\\Exolab\\anaconda3\\python.exe",
+    "python.analysis.extraPaths": ["app", "C:\\Microcool\\GIT-projects\\REST-project\\app"]
+}
